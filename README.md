@@ -1,12 +1,8 @@
-📘 Praktikum PBO – Pertemuan 7
+# Pertemuan 6
+Latihan implementasi Class dan Object pada Java.
 
-Repository ini berisi tugas Praktikum Pemrograman Berorientasi Objek (PBO) untuk Pertemuan 7.
-Latihan ini mencakup penerapan konsep berikut:
-
-🧬 Pewarisan (Inheritance)
-
-🔁 Polimorfisme
-
-🧱 Kelas Abstrak
-
-Seluruh kode ditulis dan diuji menggunakan NetBeans IDE untuk memperdalam pemahaman konsep OOP.
+## Daftar File
+- Main.java
+- Student.java
+- Team.java
+- ImmutableStudent.java
